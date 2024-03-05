@@ -1,7 +1,7 @@
 # nuku
 nuku a spiritual sucessor of yuzu switch emulator
 
-yuzu is the world's most popular, open-source, Nintendo Switch emulator — started by the creators of Citra.
+nuku, open-source, Switch emulator — started by fan of Citra and Yuzu emulator.
 It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
 Note
 
